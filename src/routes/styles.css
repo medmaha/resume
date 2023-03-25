@@ -1,0 +1,29 @@
+:root {
+	--primary: hsla(204, 91%, 40%, 0.907);
+	--primary-light: hsla(204, 91%, 55%, 0.907);
+	--primary-dark: hsla(204, 91%, 25%, 0.907);
+}
+
+.primary {
+	color: var(--primary)
+}
+
+.primary-light {
+	color: var(--primary-light)
+}
+
+.primary-dark {
+	color: var(--primary-dark)
+}
+
+.bg-primary {
+	background-color: var(--primary)
+}
+
+.bg-primary-light {
+	background-color: var(--primary-light)
+}
+
+.bg-primary-dark {
+	background-color: var(--primary-dark)
+}
