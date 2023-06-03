@@ -1,0 +1,44 @@
+Sure! Here's an example of a resume for a self-taught developer with a background in electrical and solar engineering:
+
+--------------------------------------
+Mahamed Toure
+Self-Taught Full Stack and Mobile Developer
+--------------------------------------
+
+Summary:
+Passionate and self-motivated electrical and solar engineer transitioning to a career in web and mobile development. Self-taught with a strong aptitude for programming and problem-solving. Seeking opportunities to apply my skills and contribute to innovative projects.
+
+Skills:
+- Programming Languages: Python, JavaScript
+- Web Technologies: HTML5, CSS3
+- Frameworks: Tailwind CSS
+- Version Control: Git
+- Problem-Solving
+- Attention to Detail
+- Strong Analytical Skills
+- Quick Learner
+
+Projects:
+- Personal Portfolio Website: Developed a responsive website using HTML, CSS, and Tailwind CSS to showcase my skills and projects.
+- Weather App: Built a weather application using JavaScript, API integration, and responsive design.
+- Expense Tracker: Created an expense tracking web application using Python and Flask.
+
+Education:
+Bachelor's Degree in Electrical and Solar Engineering (Year - Year)
+- Relevant coursework: Electrical Systems Design, Renewable Energy Technologies, Power Electronics
+
+Self-Study and Online Courses:
+- Completed various online courses and tutorials on web development, including HTML, CSS, and JavaScript.
+- Continuously learning and improving programming skills through self-study and hands-on projects.
+
+Additional Skills:
+- Strong problem-solving abilities gained through engineering coursework and practical experience.
+- Excellent analytical skills for identifying and troubleshooting technical issues.
+- Detail-oriented with a focus on delivering high-quality work.
+
+Languages:
+- English (Fluent)
+- [Additional languages if applicable]
+
+--------------------------------------
+Emphasize your self-taught journey, showcase the projects you have worked on, and highlight your transferable skills from your engineering background.

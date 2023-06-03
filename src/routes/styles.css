@@ -1,7 +1,14 @@
 :root {
-	--primary: hsla(204, 91%, 40%, 0.907);
+	--primary: hsla(219, 90%, 33%, 0.907);
 	--primary-light: hsla(204, 91%, 55%, 0.907);
 	--primary-dark: hsla(204, 91%, 25%, 0.907);
+}
+
+
+* {
+	font-family: 'Poppins', sans-serif;
+	/* font-family: 'Roboto', sans-serif;
+	*/
 }
 
 .primary {
