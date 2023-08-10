@@ -71,11 +71,11 @@
 		<div class="flex gap-4 items-center">
 			<h3 class="text-lg tracking-wider">TETI</h3>
 			<a
-				href="https://teti.vercel.app"
+				href="https://teti-gm.vercel.app"
 				target="_blank"
 				class="inline-flex text-sm gap-2 items-center text-sky-500 font-semibold"
 			>
-				<span> teti.vercel.app </span>
+				<span> teti-gm.vercel.app </span>
 				<span class="">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
@@ -107,7 +107,7 @@
 				target="_blank"
 				class="inline-flex text-sm gap-2 items-center text-sky-500 font-semibold"
 			>
-				<span> chatvite.vercel.app </span>
+				<span> rapidcheck.vercel.app </span>
 				<span class="">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
